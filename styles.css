@@ -1,0 +1,18 @@
+/* Globally justify all text */
+body {
+  text-align: justify;
+  background-color: black;
+  color: white; /* Ensures text remains visible */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: white;
+}
+
+a {
+  color: lightblue;
+}
+
+.quarto-title-banner {
+  background-color: #222; /* Darker background for title banner */
+}
